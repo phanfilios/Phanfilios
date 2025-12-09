@@ -3,7 +3,8 @@
 ###
 
 <p align="left"># Phanfilos — Software Designer & Quantum Systems Enthusiast<br><br>Welcome to my space on GitHub. I am Phanfilos, a software designer and developer with a focus on graphical interfaces, quantum simulation, digital architecture, and interactive experiences.<br><br>My goal is to build technological tools that combine design, engineering, and a futuristic vision.<br><br>## About me<br><br>🎨 Software Designer in training.<br><br>🧪 Developer of systems inspired by quantum computing and neurotechnology.<br><br>🌐 Creator of the SICP project — Personal Quantum Internet System.<br><br>🧰 Passionate about mixing HTML, CSS, and Python, Docker , React , Javascrit, cmake<br><br><br>🔹 What I'm Working On<br><br>Design of interactive systems and advanced GUIs.<br><br>Visual quantum simulators.<br><br>Integration of EEG signals with software.<br><br>Conceptual architecture for emerging technologies.<br><br><br>
-### 1. quantum interconnection<br><br>I haven't published it yet, but I have a primitive version of the code.<br><br>- **project**: Python<br>- **Repositories**: https://github.com/phanfilios/quantum-internet</p>
+### 1. quantum interconnection update system <br><br>The quantum internet system and the EEG UI were unified, still in the testing phase.<br><br>- **project**: Python<br>- **Repositories**: https://github.com/phanfilios/EEG-quatnum-memoris
+### 2. Bots python <br><br>testing of Python bot prototype interconnection with quantum internet via IBM servers.<br><br>- **project**: Python<br>- **Repositories**:https://github.com/phanfilios/BOTS-ARE-HUMANS
 
 ###
 
