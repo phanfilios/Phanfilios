@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left"># Phanfilos — Software Designer & Quantum Systems Enthusiast<br><br>Welcome to my space on GitHub. I am Phanfilos, a software designer and developer with a focus on graphical interfaces, quantum simulation, digital architecture, and interactive experiences.<br><br>My goal is to build technological tools that combine design, engineering, and a futuristic vision.<br><br>## About me<br><br>🎨 Software Designer in training.<br><br>🧪 Developer of systems inspired by quantum computing and neurotechnology.<br><br>🌐 Creator of the SICP project — Personal Quantum Internet System.<br><br>🧰 Passionate about mixing HTML, CSS, and Python, Docker , React , Javascrit, cmake</p>
+<p align="left"># Phanfilos — Software Designer & Quantum Systems Enthusiast<br><br>Welcome to my space on GitHub. I am Phanfilos, a software designer and developer with a focus on graphical interfaces, quantum simulation, digital architecture, and interactive experiences.<br><br>My goal is to build technological tools that combine design, engineering, and a futuristic vision.<br><br>## About me<br><br>🎨 Software Designer in training.<br><br>🧪 Developer of systems inspired by quantum computing and neurotechnology.<br><br>🌐 Creator of the SICP project — Personal Quantum Internet System.<br><br>🧰 Passionate about mixing HTML, CSS, and Python, Docker , React , Javascrit, cmake<br><br><br>🔹 What I'm Working On<br><br>Design of interactive systems and advanced GUIs.<br><br>Visual quantum simulators.<br><br>Integration of EEG signals with software.<br><br>Conceptual architecture for emerging technologies.<br><br><br>
+### 2. quantum interconnection<br><br>I haven't published it yet, but I have a primitive version of the code.<br><br>- **project**: Python<br>- **Repositories**: https://github.com/phanfilios/quantum-internet</p>
 
 ###
 
@@ -37,17 +38,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouz&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=phanfilios&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phanfilios&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=phanfilios&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=phanfilios&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phanfilios&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
