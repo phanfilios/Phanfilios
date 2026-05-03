@@ -1,73 +1,92 @@
-<h1 align="center">Phanfilos — Cybersecurity & Data Analyst</h1>
+<h1 align="center">Phanfilios — Cybersecurity Analyst (Junior)</h1>
 
-###
+---
 
-<p align="left">
+## 👨‍💻 About Me
 
-Welcome to my GitHub.<br><br>
+I am a **junior cybersecurity analyst** focused on building practical tools for **threat detection, log analysis, and automation using Python**.
 
-I am Phanfilos, a developer focused on <b>cybersecurity, data analysis, and advanced systems design</b>.<br><br>
+I specialize in:
+- 🔐 Security monitoring (SOC fundamentals)
+- 📊 Data analysis applied to cybersecurity
+- ⚙️ Automation of security tasks using Python
 
-My work integrates <b>Python, data processing, and security concepts</b> with experimental technologies such as <b>quantum-inspired systems and intelligent architectures</b>.<br><br>
+Currently developing projects that simulate **real-world security environments** and help detect anomalies in system activity.
 
-My goal is to build secure, scalable, and future-oriented technological systems.
+---
 
-<br><br>
+## 🚀 What I’m Looking For
 
-## About Me
-
-🔐 Cybersecurity Analyst in training.<br><br>
-
-📊 Data-oriented problem solver.<br><br>
-
-🧪 Developer of experimental systems (quantum simulation + signal processing).<br><br>
-
-🌐 Creator of the <b>SICP — Personal Quantum Internet System</b>.<br><br>
-
-🧰 Technologies: Python, SQL (learning), HTML, CSS, JavaScript, Docker, React, C++, C#, CMake.<br><br>
-
-## Current Focus
-
-- Security monitoring and analysis (SOC concepts).<br>
-- Data analysis applied to cybersecurity.<br>
-- Automation using Python.<br>
-- Development of advanced interfaces and simulation systems.<br>
-
-</p>
+- Junior SOC Analyst  
+- Cybersecurity Intern  
+- Entry-level Data Analyst (security-focused)  
 
 ---
 
 ## 🧪 Projects
 
-### 1. Quantum Interconnection Update System
+### 🔍 Threat Detection System
+A Python-based system that analyzes logs and detects suspicious patterns.
 
-Unified system combining quantum simulation and EEG interface (in testing phase).<br><br>
+- Detects anomalies in system activity  
+- Simulates basic SOC alert workflow  
+- Built with log parsing and rule-based detection  
 
-- **Stack**: Python  
-- **Focus**: data processing + experimental systems  
-- **Repository**: https://github.com/phanfilios/EEG-quatnum-memoris  
-
----
-
-### 2. Python Bots (Automation & Networking)
-
-Prototype of automated systems connected to quantum-inspired environments (IBM servers testing).<br><br>
-
-- **Stack**: Python  
-- **Focus**: automation, scripting, system interaction  
-- **Repository**: https://github.com/phanfilios/BOTS-ARE-HUMANS  
+🔗 https://github.com/phanfilios/threat-detection
 
 ---
 
-### 3. Five Nights of Ailurofobia (Game Project)
+### 📊 Log Analyzer
+Tool designed to process and analyze system logs for security insights.
 
-Experimental game project focused on logic and interaction systems.<br><br>
+- Extracts and structures log data  
+- Identifies unusual behavior  
+- Generates readable output for analysis  
 
-- **Stack**: Python  
-- **Focus**: system design and logic implementation  
-- **Repository**: https://github.com/phanfilios/Five-nights-of-ailurofobia  
+🔗 https://github.com/phanfilios/log-analyzer
 
 ---
+
+### 🤖 Automation Scripts (Python)
+Collection of scripts for automating repetitive security and system tasks.
+
+- Process automation  
+- File and data handling  
+- Basic network interactions  
+
+🔗 https://github.com/phanfilios/job-python
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:**
+- Python (main)
+- SQL (learning)
+- JavaScript, HTML, CSS
+
+**Tools & Concepts:**
+- Log analysis
+- Basic threat detection
+- SOC fundamentals
+- Automation scripting
+- Linux (basic)
+- Git & GitHub
+
+**Technologies:**
+- Docker (basic)
+- React (basic)
+- C++ / C# (basic exposure)
+
+---
+
+## 📈 Current Learning
+
+- Advanced Python for cybersecurity  
+- SQL for data analysis  
+- Security monitoring (SOC environments)  
+- Networking fundamentals  
+
 
 ## 🛠️ Tech Stack
 
