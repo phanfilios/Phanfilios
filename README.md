@@ -128,7 +128,6 @@ Collection of scripts for automating repetitive security and system tasks.
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
 </div>
 
-(Add your professional email here)
 
 ---
 
